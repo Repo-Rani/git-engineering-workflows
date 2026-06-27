@@ -1,8 +1,0 @@
-# Throw the extension agr ksi file ko ignore karna hai to use yaha likho * laga kr
-*.css
-
-# kis bhi file ka name k thorw us ko ignore krwya ja skta he 
-env
-
-# kisi folder or us k under ki files ko ignore krwya ja skta he
-node_modules/
